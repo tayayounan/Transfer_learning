@@ -23,6 +23,6 @@ Added layers and different activation functions.
 Hypertuning hyperparameters such as learning rate, batch size, and the number of epochs to optimize performance.
 Results
 
-# Coclusion
+# Conclusion
 
 The fine-tuned FINBERT model achieved an improved accuracy of 86.7%, up from 68% with the initial setup.
